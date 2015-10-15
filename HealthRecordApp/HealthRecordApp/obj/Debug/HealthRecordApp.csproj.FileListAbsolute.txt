@@ -1,1 +1,5 @@
 C:\Users\anusha\Source\Repos\CSYE-6202\HealthRecordApp\HealthRecordApp\bin\Debug\HealthRecordApp.exe.config
+C:\Users\anusha\Source\Repos\CSYE-6202\HealthRecordApp\HealthRecordApp\bin\Debug\HealthRecordApp.exe
+C:\Users\anusha\Source\Repos\CSYE-6202\HealthRecordApp\HealthRecordApp\bin\Debug\HealthRecordApp.pdb
+C:\Users\anusha\Source\Repos\CSYE-6202\HealthRecordApp\HealthRecordApp\obj\Debug\HealthRecordApp.exe
+C:\Users\anusha\Source\Repos\CSYE-6202\HealthRecordApp\HealthRecordApp\obj\Debug\HealthRecordApp.pdb
