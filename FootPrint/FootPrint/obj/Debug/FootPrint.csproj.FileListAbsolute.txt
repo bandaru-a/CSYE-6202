@@ -1,0 +1,9 @@
+c:\users\anusha\documents\visual studio 2015\Projects\FootPrint\FootPrint\bin\Debug\FootPrint.exe.config
+c:\users\anusha\documents\visual studio 2015\Projects\FootPrint\FootPrint\bin\Debug\FootPrint.exe
+c:\users\anusha\documents\visual studio 2015\Projects\FootPrint\FootPrint\bin\Debug\FootPrint.pdb
+c:\users\anusha\documents\visual studio 2015\Projects\FootPrint\FootPrint\obj\Debug\FootPrint.exe
+c:\users\anusha\documents\visual studio 2015\Projects\FootPrint\FootPrint\obj\Debug\FootPrint.pdb
+C:\Users\anusha\documents\visual studio 2015\Projects\FootPrint\FootPrint\obj\Debug\FootPrint.csprojResolveAssemblyReference.cache
+C:\Users\anusha\Source\Repos\CSYE-6202\FootPrint\FootPrint\bin\Debug\FootPrint.exe.config
+C:\Users\anusha\Source\Repos\CSYE-6202\FootPrint\FootPrint\obj\Debug\FootPrint.exe
+C:\Users\anusha\Source\Repos\CSYE-6202\FootPrint\FootPrint\obj\Debug\FootPrint.pdb
