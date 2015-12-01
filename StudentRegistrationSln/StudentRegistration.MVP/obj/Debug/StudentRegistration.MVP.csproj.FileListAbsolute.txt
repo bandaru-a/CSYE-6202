@@ -7,3 +7,12 @@ D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\
 D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.csproj.GenerateResource.Cache
 D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.dll
 D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.pdb
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.MVP.dll
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.MVP.pdb
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.Domain.dll
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.Domain.pdb
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.csprojResolveAssemblyReference.cache
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.StudentRegistrationForm.resources
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.csproj.GenerateResource.Cache
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.dll
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.pdb

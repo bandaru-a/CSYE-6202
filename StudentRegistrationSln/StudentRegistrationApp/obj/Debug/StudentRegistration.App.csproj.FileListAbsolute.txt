@@ -10,3 +10,15 @@ D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\o
 D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistration.App.csproj.GenerateResource.Cache
 D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistration.App.exe
 D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistration.App.pdb
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistration.App.exe.config
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistration.App.exe
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistration.App.pdb
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistration.MVP.dll
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistration.Domain.dll
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistration.MVP.pdb
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistration.Domain.pdb
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistration.App.csprojResolveAssemblyReference.cache
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistration.App.Properties.Resources.resources
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistration.App.csproj.GenerateResource.Cache
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistration.App.exe
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistration.App.pdb
