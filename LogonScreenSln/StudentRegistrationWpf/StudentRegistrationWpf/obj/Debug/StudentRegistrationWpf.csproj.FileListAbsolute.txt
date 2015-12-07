@@ -1,0 +1,22 @@
+c:\users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\bin\Debug\StudentRegistrationWpf.exe.config
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\bin\Debug\StudentRegistrationWpf.exe
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\bin\Debug\StudentRegistrationWpf.pdb
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf.csprojResolveAssemblyReference.cache
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationLoginForm.g.cs
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationMainWindow.g.cs
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\App.g.cs
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf_MarkupCompile.cache
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf_MarkupCompile.lref
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationLoginForm.baml
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationMainWindow.baml
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf.g.resources
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf.Properties.Resources.resources
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf.csproj.GenerateResource.Cache
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf.exe
+C:\Users\anusha\documents\visual studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf.pdb
+C:\Users\anusha\Documents\Visual Studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\EditStudentRegistrationForm.g.cs
+C:\Users\anusha\Documents\Visual Studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\NewStudentRegistrationForm.g.cs
+C:\Users\anusha\Documents\Visual Studio 2015\Projects\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\RemoveStudentRegistrationForm.g.cs
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\LogonScreenSln\StudentRegistrationWpf\StudentRegistrationWpf\bin\Debug\StudentRegistrationWpf.exe.config
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\LogonScreenSln\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf.exe
+C:\Users\anusha\Source\Repos\CSYE-6202\CSYE-6202-CodeSnippets\LogonScreenSln\StudentRegistrationWpf\StudentRegistrationWpf\obj\Debug\StudentRegistrationWpf.pdb

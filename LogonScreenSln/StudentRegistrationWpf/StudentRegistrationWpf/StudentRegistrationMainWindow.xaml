@@ -1,0 +1,62 @@
+﻿<Window x:Class="StudentRegistrationWpf.StudentRegistrationMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentRegistrationWpf"
+        mc:Ignorable="d"
+        Title="StudentRegistrationMainWindow" Height="472" Width="662">
+    <Grid Margin="-2,0,4,0">
+
+        <GroupBox x:Name="groupBox" Header="Student Info" HorizontalAlignment="Left" Margin="24,25,0,0" VerticalAlignment="Top" Height="193" Width="467">
+            <Grid>
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,0,286,0" Height="33">
+                        <Label  Content="Student ID" Height="25"/>
+                        <TextBox x:Name="txtID" Width="100" Height="25" Margin="0,4" RenderTransformOrigin="0.96,0.4" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,0,286,0" Height="33">
+                        <Label  Content="First Name" Height="25"/>
+                        <TextBox x:Name="txtFirstName" Width="100" Height="25" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,0,286,0" Height="33">
+                        <Label  Content="Last Name" Height="25"/>
+                        <TextBox x:Name="txtLastName" Width="100" Height="25" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,0,265,0" Height="33">
+                        <Label  Content="Department" Height="25" Margin="0,4"/>
+                        <ComboBox x:Name="cmbDepartment" Width="113">
+                            <ComboBoxItem Content="Information Systems"/>
+                            <ComboBoxItem Content="Professional Studies"/>
+                            <ComboBoxItem Content="Psychology"/>
+                            <ComboBoxItem Content="International Affairs"/>
+                            <ComboBoxItem Content="Nursing"/>
+                            <ComboBoxItem Content="Pharmacy"/>
+                            <ComboBoxItem Content="Public Administration"/>
+                        </ComboBox>
+                    </StackPanel>
+                </StackPanel>
+                <GroupBox x:Name="groupBox1" Header="Enrollment Type" HorizontalAlignment="Left" Margin="219,10,0,0" VerticalAlignment="Top" Height="145" Width="215">
+                    <StackPanel Orientation="Horizontal">
+                        <RadioButton x:Name="rbtnParttime" Content="Part-Time" Width="100" Margin="0,56,0,0"/>
+                        <RadioButton x:Name="rbtnFulltime" Content="Full-Time" Width="118" Margin="0,56,0,0"/>
+                    </StackPanel>
+                </GroupBox>
+
+
+            </Grid>
+        </GroupBox>
+        <Button x:Name="btnNewStudent" Content="New Student" HorizontalAlignment="Left" Margin="528,86,0,0" VerticalAlignment="Top" Width="103" Click="btnNewStudent_Click"/>
+        <Button x:Name="btnRemoveStudent" Content="Remove Student" HorizontalAlignment="Left" Margin="528,141,0,0" VerticalAlignment="Top" Width="103" Click="btnRemoveStudent_Click"/>
+        <Button x:Name="btnEditStudent" Content="Edit Student" HorizontalAlignment="Left" Margin="528,198,0,0" VerticalAlignment="Top" Width="103" Click="btnEditStudent_Click"/>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Center" Margin="24,245,257,0" VerticalAlignment="Top" Height="169" Width="371" SelectionChanged="dataGrid_SelectionChanged" ColumnWidth="SizeToHeader">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Student ID"/>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="First Name"/>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Last Name"/>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Department"/>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="Enrollment Type"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

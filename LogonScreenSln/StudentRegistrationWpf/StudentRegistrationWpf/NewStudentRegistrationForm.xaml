@@ -1,0 +1,54 @@
+﻿<Window x:Class="StudentRegistrationWpf.NewStudentRegistrationForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentRegistrationWpf"
+        mc:Ignorable="d"
+        Title="NewStudentRegistrationForm" Height="500" Width="600">
+    <Grid Margin="0,0,2,0">
+        <GroupBox x:Name="groupBox" Header="Student Info" HorizontalAlignment="Left" Margin="24,20,0,0" VerticalAlignment="Top" Height="268" Width="515">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="187*"/>
+                    <ColumnDefinition Width="268*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.ColumnSpan="2">
+                    <StackPanel Orientation="Horizontal" Margin="20,0,277,0" Height="33">
+                        <Label  Content="Student ID" Height="25"/>
+                        <TextBox x:Name="txtID" Width="100" Height="25" Margin="0,4" RenderTransformOrigin="0.96,0.4" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="20,0,286,0" Height="39">
+                        <Label  Content="First Name" Height="25"/>
+                        <TextBox x:Name="txtFirstName" Width="100" Height="25" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="20,0,286,0" Height="33">
+                        <Label  Content="Last Name" Height="25"/>
+                        <TextBox x:Name="txtLastName" Width="100" Height="25" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="20,0,265,0" Height="33">
+                        <Label  Content="Department" Height="25" Margin="0,4"/>
+                        <ComboBox x:Name="cmbDepartment" Width="113">
+                            <ComboBoxItem Content="Information Systems"/>
+                            <ComboBoxItem Content="Professional Studies"/>
+                            <ComboBoxItem Content="Psychology"/>
+                        </ComboBox>
+                    </StackPanel>
+                </StackPanel>
+                <GroupBox x:Name="groupBox1" Header="Enrollment Type" HorizontalAlignment="Left" Margin="32,29,0,0" VerticalAlignment="Top" Height="130" Width="231" Grid.Column="1">
+                    <StackPanel Orientation="Horizontal">
+                        <RadioButton Content="Part-Time" Width="116" Margin="0,55,0,0"/>
+                        <RadioButton Content="Full-Time" Width="135" Margin="0,55,0,0"/>
+                    </StackPanel>
+                </GroupBox>
+
+
+            </Grid>
+        </GroupBox>
+        <Button x:Name="button" HorizontalAlignment="Left" Margin="256,339,0,0" VerticalAlignment="Top" Width="75">
+            <Button x:Name="btnAddStudent" Content="Add" Width="75"/>
+        </Button>
+        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="416,339,0,0" VerticalAlignment="Top" Width="75" Height="24"/>
+
+    </Grid>
+</Window>
