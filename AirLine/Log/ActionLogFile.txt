@@ -1,0 +1,980 @@
+Window Name  : SignUp
+Action Performed : Loaded
+Time : 12/10/2015 8:29:47 PM
+^^---------------------------------------------------------^^
+Window Name  : LoginWindow
+Action Performed : user logged in successfully : arun
+Time : 12/10/2015 8:30:02 PM
+^^---------------------------------------------------------^^
+Window Name  : Main Window 
+Action Performed : Loaded
+Time : 12/10/2015 8:30:02 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/10/2015 8:30:05 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/10/2015 8:30:10 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/10/2015 8:30:10 PM
+^^---------------------------------------------------------^^
+Window Name  : CrewWindow
+Action Performed : Opened
+Time : 12/10/2015 8:30:15 PM
+^^---------------------------------------------------------^^
+Window Name  : Crew Window
+Action Performed : Data loaded
+Time : 12/10/2015 8:30:15 PM
+^^---------------------------------------------------------^^
+Window Name  : Passengers Window
+Action Performed : Loaded
+Time : 12/10/2015 8:30:19 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/10/2015 8:30:28 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/10/2015 8:31:01 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/10/2015 8:31:01 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/10/2015 8:31:20 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/10/2015 8:31:20 PM
+^^---------------------------------------------------------^^
+Window Name  : CrewWindow
+Action Performed : Opened
+Time : 12/10/2015 8:31:26 PM
+^^---------------------------------------------------------^^
+Window Name  : Crew Window
+Action Performed : Data loaded
+Time : 12/10/2015 8:31:26 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/10/2015 8:31:30 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/10/2015 8:31:30 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/10/2015 8:32:47 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/10/2015 8:32:47 PM
+^^---------------------------------------------------------^^
+Window Name  : Book ticket
+Action Performed : Ticket booked successfully
+Time : 12/10/2015 8:33:09 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/10/2015 8:34:10 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Unbooked Ticked
+Time : 12/10/2015 8:34:54 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/10/2015 8:37:04 PM
+^^---------------------------------------------------------^^
+Window Name  : Flight Information 
+Action Performed : new record inserted
+Time : 12/10/2015 8:38:10 PM
+^^---------------------------------------------------------^^
+Window Name  : LoginWindow
+Action Performed : user logged in successfully : roop
+Time : 12/10/2015 8:39:04 PM
+^^---------------------------------------------------------^^
+Window Name  : Main Window 
+Action Performed : Loaded
+Time : 12/10/2015 8:39:04 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/10/2015 8:39:07 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/10/2015 8:39:30 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/10/2015 8:39:38 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/10/2015 8:39:38 PM
+^^---------------------------------------------------------^^
+Window Name  : CrewWindow
+Action Performed : Opened
+Time : 12/10/2015 8:39:41 PM
+^^---------------------------------------------------------^^
+Window Name  : Crew Window
+Action Performed : Data loaded
+Time : 12/10/2015 8:39:41 PM
+^^---------------------------------------------------------^^
+Window Name  : Passengers Window
+Action Performed : Loaded
+Time : 12/10/2015 8:39:44 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/10/2015 8:39:50 PM
+^^---------------------------------------------------------^^
+Window Name  : LoginWindow
+Action Performed : user logged in successfully : roop
+Time : 12/10/2015 8:57:47 PM
+^^---------------------------------------------------------^^
+Window Name  : Main Window 
+Action Performed : Loaded
+Time : 12/10/2015 8:57:48 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/10/2015 8:57:53 PM
+^^---------------------------------------------------------^^
+Window Name  : LoginWindow
+Action Performed : user logged in successfully : arun
+Time : 12/10/2015 8:58:27 PM
+^^---------------------------------------------------------^^
+Window Name  : Main Window 
+Action Performed : Loaded
+Time : 12/10/2015 8:58:28 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/10/2015 9:01:20 PM
+^^---------------------------------------------------------^^
+Window Name  : Flight Information 
+Action Performed : new record inserted
+Time : 12/10/2015 9:04:33 PM
+^^---------------------------------------------------------^^
+Window Name  : Flight Information 
+Action Performed : Record deleted
+Time : 12/10/2015 9:06:09 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/10/2015 9:07:37 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/10/2015 9:07:37 PM
+^^---------------------------------------------------------^^
+Window Name  : CrewWindow
+Action Performed : Opened
+Time : 12/10/2015 9:07:45 PM
+^^---------------------------------------------------------^^
+Window Name  : Crew Window
+Action Performed : Data loaded
+Time : 12/10/2015 9:07:45 PM
+^^---------------------------------------------------------^^
+Window Name  : Passengers Window
+Action Performed : Loaded
+Time : 12/10/2015 9:07:55 PM
+^^---------------------------------------------------------^^
+Window Name  : Passengers Window
+Action Performed : Loaded
+Time : 12/10/2015 9:07:59 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/10/2015 9:08:19 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/10/2015 9:20:47 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/10/2015 9:21:34 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/10/2015 9:21:34 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/10/2015 9:22:47 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Loaded
+Time : 12/11/2015 9:16:05 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: a
+Time : 12/11/2015 11:59:00 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: an
+Time : 12/11/2015 11:59:00 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu
+Time : 12/11/2015 11:59:01 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anus
+Time : 12/11/2015 11:59:01 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anush
+Time : 12/11/2015 11:59:03 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha
+Time : 12/11/2015 11:59:03 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anushab
+Time : 12/11/2015 11:59:04 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anushaba
+Time : 12/11/2015 11:59:04 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anushaban
+Time : 12/11/2015 11:59:04 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anushaba
+Time : 12/11/2015 11:59:05 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anushab
+Time : 12/11/2015 11:59:05 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha
+Time : 12/11/2015 11:59:05 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anush
+Time : 12/11/2015 11:59:05 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anus
+Time : 12/11/2015 11:59:06 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu
+Time : 12/11/2015 11:59:06 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: an
+Time : 12/11/2015 11:59:06 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: a
+Time : 12/11/2015 11:59:06 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: 
+Time : 12/11/2015 11:59:07 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: b
+Time : 12/11/2015 11:59:07 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: ba
+Time : 12/11/2015 11:59:07 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: ban
+Time : 12/11/2015 11:59:07 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banu
+Time : 12/11/2015 11:59:08 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banus
+Time : 12/11/2015 11:59:08 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banush
+Time : 12/11/2015 11:59:08 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banusha
+Time : 12/11/2015 11:59:08 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banusha@
+Time : 12/11/2015 11:59:10 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banusha@g
+Time : 12/11/2015 11:59:10 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banusha@ga
+Time : 12/11/2015 11:59:11 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banusha@gam
+Time : 12/11/2015 11:59:11 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banusha@gami
+Time : 12/11/2015 11:59:11 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banusha@gamil
+Time : 12/11/2015 11:59:11 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banusha@gamil.
+Time : 12/11/2015 11:59:12 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: banusha@gamil.c
+Time : 12/11/2015 11:59:12 AM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: a
+Time : 12/11/2015 12:01:46 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: an
+Time : 12/11/2015 12:01:46 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu
+Time : 12/11/2015 12:01:46 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anus
+Time : 12/11/2015 12:01:47 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anush
+Time : 12/11/2015 12:01:47 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha
+Time : 12/11/2015 12:01:47 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@
+Time : 12/11/2015 12:01:49 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@g
+Time : 12/11/2015 12:01:49 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gm
+Time : 12/11/2015 12:01:50 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gma
+Time : 12/11/2015 12:01:50 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gmai
+Time : 12/11/2015 12:01:50 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gmail
+Time : 12/11/2015 12:01:50 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gmail.
+Time : 12/11/2015 12:01:51 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gmail.c
+Time : 12/11/2015 12:01:51 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: a
+Time : 12/11/2015 12:05:42 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: an
+Time : 12/11/2015 12:05:42 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu
+Time : 12/11/2015 12:05:43 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anus
+Time : 12/11/2015 12:05:43 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anush
+Time : 12/11/2015 12:05:43 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha
+Time : 12/11/2015 12:05:43 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@
+Time : 12/11/2015 12:05:47 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@g
+Time : 12/11/2015 12:05:48 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@
+Time : 12/11/2015 12:05:49 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@m
+Time : 12/11/2015 12:05:50 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@
+Time : 12/11/2015 12:05:52 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@g
+Time : 12/11/2015 12:05:52 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gm
+Time : 12/11/2015 12:05:52 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gmi
+Time : 12/11/2015 12:05:53 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gmil
+Time : 12/11/2015 12:05:53 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gmil.
+Time : 12/11/2015 12:05:54 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anusha@gmil.c
+Time : 12/11/2015 12:05:54 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: a
+Time : 12/11/2015 12:36:01 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: an
+Time : 12/11/2015 12:36:02 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu
+Time : 12/11/2015 12:36:02 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@
+Time : 12/11/2015 12:36:03 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@g
+Time : 12/11/2015 12:36:04 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gm
+Time : 12/11/2015 12:36:05 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gma
+Time : 12/11/2015 12:36:05 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gmai
+Time : 12/11/2015 12:36:05 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gmail
+Time : 12/11/2015 12:36:06 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gmail.
+Time : 12/11/2015 12:36:06 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gmail.c
+Time : 12/11/2015 12:36:06 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Loaded
+Time : 12/11/2015 1:54:13 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: a
+Time : 12/11/2015 1:54:25 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: an
+Time : 12/11/2015 1:54:26 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu
+Time : 12/11/2015 1:54:26 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@
+Time : 12/11/2015 1:54:27 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@g
+Time : 12/11/2015 1:54:28 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gm
+Time : 12/11/2015 1:54:28 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gma
+Time : 12/11/2015 1:54:29 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gmai
+Time : 12/11/2015 1:54:29 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gmail
+Time : 12/11/2015 1:54:29 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gmail.
+Time : 12/11/2015 1:54:31 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: anu@gmail.c
+Time : 12/11/2015 1:54:31 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : anu
+Time : 12/11/2015 1:55:44 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : anu
+Time : 12/11/2015 1:55:45 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : User Successfully created
+Time : 12/11/2015 1:55:56 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Loaded
+Time : 12/11/2015 2:03:05 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: m
+Time : 12/11/2015 2:03:16 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: mo
+Time : 12/11/2015 2:03:16 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: mon
+Time : 12/11/2015 2:03:17 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: moni
+Time : 12/11/2015 2:03:17 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: moni@
+Time : 12/11/2015 2:03:18 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: moni@g
+Time : 12/11/2015 2:03:18 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: moni@gm
+Time : 12/11/2015 2:03:19 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: moni@gma
+Time : 12/11/2015 2:03:20 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: moni@gmai
+Time : 12/11/2015 2:03:20 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: moni@gmail
+Time : 12/11/2015 2:03:20 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: moni@gmail.
+Time : 12/11/2015 2:03:21 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: moni@gmail.c
+Time : 12/11/2015 2:03:21 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : sha
+Time : 12/11/2015 2:03:57 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : sha
+Time : 12/11/2015 2:03:58 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : User Successfully created
+Time : 12/11/2015 2:04:05 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Loaded
+Time : 12/11/2015 2:06:23 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: s
+Time : 12/11/2015 2:06:34 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sa
+Time : 12/11/2015 2:06:34 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sar
+Time : 12/11/2015 2:06:34 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sara
+Time : 12/11/2015 2:06:34 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sarat
+Time : 12/11/2015 2:06:35 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sarat@
+Time : 12/11/2015 2:06:36 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sarat@g
+Time : 12/11/2015 2:06:36 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sarat@gm
+Time : 12/11/2015 2:06:37 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sarat@gma
+Time : 12/11/2015 2:06:38 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sarat@gmai
+Time : 12/11/2015 2:06:38 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sarat@gmail
+Time : 12/11/2015 2:06:39 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sarat@gmail.
+Time : 12/11/2015 2:06:39 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: sarat@gmail.c
+Time : 12/11/2015 2:06:39 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : chak
+Time : 12/11/2015 2:07:25 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : chak
+Time : 12/11/2015 2:07:26 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : chak
+Time : 12/11/2015 2:07:26 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : User Successfully created
+Time : 12/11/2015 2:07:36 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Loaded
+Time : 12/11/2015 2:15:29 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: b
+Time : 12/11/2015 2:16:06 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bo
+Time : 12/11/2015 2:16:07 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bon
+Time : 12/11/2015 2:16:07 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bony
+Time : 12/11/2015 2:16:07 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bony@
+Time : 12/11/2015 2:16:08 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bony@g
+Time : 12/11/2015 2:16:09 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bony@gm
+Time : 12/11/2015 2:16:09 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bony@gma
+Time : 12/11/2015 2:16:10 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bony@gmai
+Time : 12/11/2015 2:16:10 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bony@gmail
+Time : 12/11/2015 2:16:10 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bony@gmail.
+Time : 12/11/2015 2:16:11 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Invalid Email Id: bony@gmail.c
+Time : 12/11/2015 2:16:11 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : bony12
+Time : 12/11/2015 2:16:50 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : bony12
+Time : 12/11/2015 2:16:50 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : bony12
+Time : 12/11/2015 2:16:50 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : bony12
+Time : 12/11/2015 2:16:51 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : Password doesn't match : bony12
+Time : 12/11/2015 2:16:51 PM
+^^---------------------------------------------------------^^
+Window Name  : SignUp
+Action Performed : User Successfully created
+Time : 12/11/2015 2:16:59 PM
+^^---------------------------------------------------------^^
+Window Name  : LoginWindow
+Action Performed : user logged in successfully : ganu
+Time : 12/11/2015 2:17:12 PM
+^^---------------------------------------------------------^^
+Window Name  : Main Window 
+Action Performed : Loaded
+Time : 12/11/2015 2:17:12 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Window Name  : LoginWindow
+Action Performed : user logged in successfully : ganu
+Time : 12/11/2015 2:30:25 PM
+^^---------------------------------------------------------^^
+Window Name  : Main Window 
+Action Performed : Loaded
+Time : 12/11/2015 2:30:25 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/11/2015 2:30:27 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/11/2015 2:31:20 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/11/2015 2:31:36 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/11/2015 2:31:39 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/11/2015 2:31:41 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/11/2015 2:32:01 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/11/2015 2:32:03 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/11/2015 2:32:05 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/11/2015 2:32:06 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/11/2015 2:32:07 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/11/2015 2:32:15 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/11/2015 2:32:15 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/11/2015 2:34:08 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/11/2015 2:35:04 PM
+^^---------------------------------------------------------^^
+Window Name  : Book ticket
+Action Performed : Ticket booked successfully
+Time : 12/11/2015 2:36:41 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/11/2015 2:37:34 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Unbooked Ticked
+Time : 12/11/2015 2:38:23 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Unbooked Ticked
+Time : 12/11/2015 2:38:29 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/11/2015 2:38:36 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Opened
+Time : 12/11/2015 2:38:43 PM
+^^---------------------------------------------------------^^
+Window Name  : FlightFare Window
+Action Performed : Data loaded
+Time : 12/11/2015 2:38:43 PM
+^^---------------------------------------------------------^^
+Window Name  : CrewWindow
+Action Performed : Opened
+Time : 12/11/2015 2:39:28 PM
+^^---------------------------------------------------------^^
+Window Name  : Crew Window
+Action Performed : Data loaded
+Time : 12/11/2015 2:39:28 PM
+^^---------------------------------------------------------^^
+Window Name  : Passengers Window
+Action Performed : Loaded
+Time : 12/11/2015 2:40:06 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/11/2015 2:41:16 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/11/2015 2:41:17 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/11/2015 2:41:20 PM
+^^---------------------------------------------------------^^
+Window Name  : LoginWindow
+Action Performed : user logged in successfully : ganu
+Time : 12/11/2015 2:44:17 PM
+^^---------------------------------------------------------^^
+Window Name  : Main Window 
+Action Performed : Loaded
+Time : 12/11/2015 2:44:17 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/11/2015 2:44:32 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/11/2015 2:44:52 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/11/2015 2:44:54 PM
+^^---------------------------------------------------------^^
+Window Name  : Flight Information 
+Action Performed : Record updtaed
+Time : 12/11/2015 2:47:33 PM
+^^---------------------------------------------------------^^
+Window Name  : Flight Information 
+Action Performed : Record updtaed
+Time : 12/11/2015 2:48:37 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/11/2015 2:50:49 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/11/2015 2:50:50 PM
+^^---------------------------------------------------------^^
+Window Name  : Flight Information 
+Action Performed : Record updtaed
+Time : 12/11/2015 2:51:36 PM
+^^---------------------------------------------------------^^
+Window Name  : Flight Information 
+Action Performed : Record updtaed
+Time : 12/11/2015 2:57:00 PM
+^^---------------------------------------------------------^^
+Window Name  : Flight Information 
+Action Performed : Record updtaed
+Time : 12/11/2015 2:57:33 PM
+^^---------------------------------------------------------^^
+Window Name  : Booked History
+Action Performed : Loaded
+Time : 12/11/2015 2:57:46 PM
+^^---------------------------------------------------------^^
+Window Name  : Flights Information 
+Action Performed : Loaded
+Time : 12/11/2015 2:57:47 PM
+^^---------------------------------------------------------^^
+Window Name  : Book Ticket 
+Action Performed : Loaded
+Time : 12/11/2015 2:58:56 PM
+^^---------------------------------------------------------^^

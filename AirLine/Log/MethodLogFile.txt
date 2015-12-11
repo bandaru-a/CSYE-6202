@@ -1,0 +1,1512 @@
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/10/2015 8:29:47 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/10/2015 8:29:47 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Entered
+Time : 12/10/2015 8:30:02 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Entered
+Time : 12/10/2015 8:30:02 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Exit
+Time : 12/10/2015 8:30:02 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Exist
+Time : 12/10/2015 8:30:02 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/10/2015 8:30:05 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/10/2015 8:30:05 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/10/2015 8:30:10 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/10/2015 8:30:10 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/10/2015 8:30:10 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/10/2015 8:30:10 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Entered
+Time : 12/10/2015 8:30:15 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Entered
+Time : 12/10/2015 8:30:15 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Exited
+Time : 12/10/2015 8:30:15 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Exit
+Time : 12/10/2015 8:30:15 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Entered
+Time : 12/10/2015 8:30:19 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Exit
+Time : 12/10/2015 8:30:19 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/10/2015 8:30:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 8:30:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 8:30:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 8:30:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 8:30:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/10/2015 8:30:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 8:30:35 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 8:30:35 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 8:30:35 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 8:30:35 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 8:30:42 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 8:30:42 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 8:30:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 8:30:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/10/2015 8:31:01 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/10/2015 8:31:01 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/10/2015 8:31:01 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/10/2015 8:31:01 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/10/2015 8:31:20 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/10/2015 8:31:20 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/10/2015 8:31:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/10/2015 8:31:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Entered
+Time : 12/10/2015 8:31:26 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Entered
+Time : 12/10/2015 8:31:26 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Exited
+Time : 12/10/2015 8:31:26 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Exit
+Time : 12/10/2015 8:31:26 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/10/2015 8:31:30 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/10/2015 8:31:30 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/10/2015 8:31:30 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/10/2015 8:31:30 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 8:31:40 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 8:31:40 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 8:31:45 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 8:31:45 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 8:31:45 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 8:31:45 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnRemove_Click -Entered
+Time : 12/10/2015 8:32:23 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnRemove_Click -Exit
+Time : 12/10/2015 8:32:23 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/10/2015 8:32:47 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/10/2015 8:32:47 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/10/2015 8:32:47 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/10/2015 8:32:47 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnOK_Click -Entered
+Time : 12/10/2015 8:33:05 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnOK_Click -Exit
+Time : 12/10/2015 8:33:09 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookAnotherTicket_Click -Entered
+Time : 12/10/2015 8:33:12 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookAnotherTicket_Click -Exit
+Time : 12/10/2015 8:33:12 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookAnotherTicket_Click -Entered
+Time : 12/10/2015 8:33:53 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookAnotherTicket_Click -Exit
+Time : 12/10/2015 8:33:53 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookAnotherTicket_Click -Entered
+Time : 12/10/2015 8:34:00 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookAnotherTicket_Click -Exit
+Time : 12/10/2015 8:34:00 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/10/2015 8:34:10 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/10/2015 8:34:10 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 8:34:22 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 8:34:22 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 8:34:32 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 8:34:32 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 8:34:34 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 8:34:34 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 8:34:36 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 8:34:36 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 8:34:38 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 8:34:38 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 8:34:39 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 8:34:39 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUnbookPassener_Click -Entered
+Time : 12/10/2015 8:34:54 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUnbookPassener_Click -Exit
+Time : 12/10/2015 8:34:54 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 8:34:59 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 8:34:59 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 8:35:09 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 8:35:09 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/10/2015 8:37:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/10/2015 8:37:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Entered
+Time : 12/10/2015 8:37:10 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Entered
+Time : 12/10/2015 8:37:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Exit
+Time : 12/10/2015 8:37:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Entered
+Time : 12/10/2015 8:38:10 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Exit
+Time : 12/10/2015 8:38:16 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Entered
+Time : 12/10/2015 8:38:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Exit
+Time : 12/10/2015 8:38:27 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Entered
+Time : 12/10/2015 8:39:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Entered
+Time : 12/10/2015 8:39:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Exit
+Time : 12/10/2015 8:39:04 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Exist
+Time : 12/10/2015 8:39:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/10/2015 8:39:07 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/10/2015 8:39:07 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 8:39:09 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 8:39:09 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/10/2015 8:39:30 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/10/2015 8:39:30 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/10/2015 8:39:38 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/10/2015 8:39:38 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/10/2015 8:39:38 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/10/2015 8:39:38 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Entered
+Time : 12/10/2015 8:39:41 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Entered
+Time : 12/10/2015 8:39:41 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Exited
+Time : 12/10/2015 8:39:41 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Exit
+Time : 12/10/2015 8:39:41 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Entered
+Time : 12/10/2015 8:39:44 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Exit
+Time : 12/10/2015 8:39:44 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/10/2015 8:39:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 8:39:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 8:39:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 8:39:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 8:39:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/10/2015 8:39:50 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Entered
+Time : 12/10/2015 8:57:47 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Entered
+Time : 12/10/2015 8:57:48 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Exit
+Time : 12/10/2015 8:57:48 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Exist
+Time : 12/10/2015 8:57:48 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/10/2015 8:57:53 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/10/2015 8:57:53 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Entered
+Time : 12/10/2015 8:58:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Entered
+Time : 12/10/2015 8:58:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Exit
+Time : 12/10/2015 8:58:28 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Exist
+Time : 12/10/2015 8:58:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/10/2015 8:58:30 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/10/2015 9:01:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Entered
+Time : 12/10/2015 9:01:25 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Exit
+Time : 12/10/2015 9:01:26 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Entered
+Time : 12/10/2015 9:02:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Exit
+Time : 12/10/2015 9:03:00 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Entered
+Time : 12/10/2015 9:04:02 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnAddFlight_Click -Exit
+Time : 12/10/2015 9:04:36 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnDeleteFlight_Click -Entered
+Time : 12/10/2015 9:05:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnDeleteFlight_Click -Exit
+Time : 12/10/2015 9:06:09 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/10/2015 9:07:37 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/10/2015 9:07:37 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/10/2015 9:07:37 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/10/2015 9:07:37 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Entered
+Time : 12/10/2015 9:07:45 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Entered
+Time : 12/10/2015 9:07:45 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Exited
+Time : 12/10/2015 9:07:45 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Exit
+Time : 12/10/2015 9:07:45 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Entered
+Time : 12/10/2015 9:07:55 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Exit
+Time : 12/10/2015 9:07:55 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Entered
+Time : 12/10/2015 9:07:59 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Exit
+Time : 12/10/2015 9:07:59 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/10/2015 9:08:18 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 9:08:19 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 9:08:19 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 9:08:19 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 9:08:19 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/10/2015 9:08:19 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/10/2015 9:09:16 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 9:11:18 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 9:12:10 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 9:20:43 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 9:20:43 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/10/2015 9:20:47 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 9:20:58 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 9:21:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 9:21:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 9:21:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 9:21:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 9:21:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 9:21:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 9:21:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 9:21:11 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 9:21:11 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 9:21:16 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 9:21:16 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 9:21:16 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 9:21:16 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/10/2015 9:21:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/10/2015 9:21:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/10/2015 9:21:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/10/2015 9:21:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/10/2015 9:21:34 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/10/2015 9:21:34 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/10/2015 9:21:34 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/10/2015 9:21:34 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/10/2015 9:22:47 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/10/2015 9:22:47 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/10/2015 9:22:49 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/10/2015 9:22:49 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/11/2015 9:16:04 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/11/2015 9:16:05 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/11/2015 11:58:45 AM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load ,Exception : A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+Time : 12/11/2015 11:58:48 AM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/11/2015 11:58:48 AM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/11/2015 12:01:25 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load ,Exception : A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+Time : 12/11/2015 12:01:28 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/11/2015 12:01:28 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/11/2015 12:05:26 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load ,Exception : A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+Time : 12/11/2015 12:05:28 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/11/2015 12:05:28 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/11/2015 12:35:49 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load ,Exception : A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+Time : 12/11/2015 12:35:53 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/11/2015 12:35:53 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/11/2015 1:54:10 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/11/2015 1:54:13 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Entered
+Time : 12/11/2015 1:55:56 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Exit
+Time : 12/11/2015 1:55:56 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Entered
+Time : 12/11/2015 1:56:02 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/11/2015 2:03:05 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/11/2015 2:03:05 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Entered
+Time : 12/11/2015 2:04:05 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Exit
+Time : 12/11/2015 2:04:05 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Entered
+Time : 12/11/2015 2:04:12 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/11/2015 2:06:23 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/11/2015 2:06:23 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Entered
+Time : 12/11/2015 2:07:36 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Exit
+Time : 12/11/2015 2:07:36 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Entered
+Time : 12/11/2015 2:15:28 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : SignUp_Load-Exit
+Time : 12/11/2015 2:15:29 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Entered
+Time : 12/11/2015 2:16:59 PM
+^^---------------------------------------------------------^^
+Class Name  : SignUp
+Method Name : btnSignUp_Click - Exit
+Time : 12/11/2015 2:16:59 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Entered
+Time : 12/11/2015 2:17:12 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Entered
+Time : 12/11/2015 2:17:12 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Exit
+Time : 12/11/2015 2:17:12 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Exist
+Time : 12/11/2015 2:17:12 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:17:17 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Entered
+Time : 12/11/2015 2:30:25 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Entered
+Time : 12/11/2015 2:30:25 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Exit
+Time : 12/11/2015 2:30:25 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Exist
+Time : 12/11/2015 2:30:25 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:30:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:30:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:30:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:30:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:30:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/11/2015 2:30:27 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:31:07 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:31:07 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:31:07 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:31:07 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:31:10 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:31:10 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/11/2015 2:31:19 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/11/2015 2:31:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/11/2015 2:31:36 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/11/2015 2:31:36 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/11/2015 2:31:39 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/11/2015 2:31:39 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:31:41 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:31:41 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:31:41 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:31:41 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:31:41 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/11/2015 2:31:41 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/11/2015 2:32:01 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/11/2015 2:32:01 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/11/2015 2:32:03 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/11/2015 2:32:03 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:32:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:32:05 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:32:05 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:32:05 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:32:05 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/11/2015 2:32:05 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/11/2015 2:32:06 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/11/2015 2:32:06 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/11/2015 2:32:07 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/11/2015 2:32:07 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/11/2015 2:32:09 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/11/2015 2:32:09 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/11/2015 2:32:15 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/11/2015 2:32:15 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/11/2015 2:32:15 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/11/2015 2:32:15 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:34:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:34:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:34:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:34:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:34:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/11/2015 2:34:08 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:35:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:35:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:35:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:35:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:35:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/11/2015 2:35:04 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnOK_Click -Entered
+Time : 12/11/2015 2:36:38 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnOK_Click -Exit
+Time : 12/11/2015 2:36:41 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/11/2015 2:37:34 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/11/2015 2:37:34 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/11/2015 2:38:15 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/11/2015 2:38:15 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUnbookPassener_Click -Entered
+Time : 12/11/2015 2:38:23 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUnbookPassener_Click -Exit
+Time : 12/11/2015 2:38:23 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Entered
+Time : 12/11/2015 2:38:26 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : dataGridView1_RowHeaderMouseClick -Exit
+Time : 12/11/2015 2:38:26 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUnBookTicket_Click -Entered
+Time : 12/11/2015 2:38:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUnBookTicket_Click -Exit
+Time : 12/11/2015 2:38:29 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/11/2015 2:38:36 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/11/2015 2:38:36 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Entered
+Time : 12/11/2015 2:38:43 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Entered
+Time : 12/11/2015 2:38:43 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightFareWindow
+Method Name : FlightFareWindow_Load -Exit
+Time : 12/11/2015 2:38:43 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button2_Click -Exit
+Time : 12/11/2015 2:38:43 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Entered
+Time : 12/11/2015 2:39:28 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Entered
+Time : 12/11/2015 2:39:28 PM
+^^---------------------------------------------------------^^
+Class Name  : FlightCrewWindow
+Method Name : FlightCrewWindow_Load -Exited
+Time : 12/11/2015 2:39:28 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : button1_Click -Exit
+Time : 12/11/2015 2:39:28 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Entered
+Time : 12/11/2015 2:40:06 PM
+^^---------------------------------------------------------^^
+Class Name  : PassengersWin
+Method Name : PassengersWin_Load -Exit
+Time : 12/11/2015 2:40:06 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/11/2015 2:41:16 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/11/2015 2:41:16 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/11/2015 2:41:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/11/2015 2:41:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:41:19 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:41:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:41:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:41:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:41:20 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/11/2015 2:41:20 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Entered
+Time : 12/11/2015 2:44:16 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Entered
+Time : 12/11/2015 2:44:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : MainWindow_Load -Exit
+Time : 12/11/2015 2:44:17 PM
+^^---------------------------------------------------------^^
+Class Name  : LoginWindow
+Method Name : Signin_btn_Click - Exist
+Time : 12/11/2015 2:44:17 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:44:32 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:44:32 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:44:32 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:44:32 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:44:32 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/11/2015 2:44:32 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/11/2015 2:44:52 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/11/2015 2:44:52 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/11/2015 2:44:54 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/11/2015 2:44:54 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Entered
+Time : 12/11/2015 2:47:33 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Exit
+Time : 12/11/2015 2:47:36 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Entered
+Time : 12/11/2015 2:48:37 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Exit
+Time : 12/11/2015 2:48:41 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Entered
+Time : 12/11/2015 2:50:45 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Exit
+Time : 12/11/2015 2:50:45 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/11/2015 2:50:49 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/11/2015 2:50:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/11/2015 2:50:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/11/2015 2:50:50 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Entered
+Time : 12/11/2015 2:51:24 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Exit
+Time : 12/11/2015 2:51:24 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Entered
+Time : 12/11/2015 2:51:29 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Exit
+Time : 12/11/2015 2:51:29 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Entered
+Time : 12/11/2015 2:51:36 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Exit
+Time : 12/11/2015 2:51:38 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Entered
+Time : 12/11/2015 2:57:00 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Exit
+Time : 12/11/2015 2:57:02 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Entered
+Time : 12/11/2015 2:57:33 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnUpdateFlight_Click -Exit
+Time : 12/11/2015 2:57:38 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Entered
+Time : 12/11/2015 2:57:45 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookedHistory_Click -Exit
+Time : 12/11/2015 2:57:46 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Entered
+Time : 12/11/2015 2:57:47 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnflights_Click -Exit
+Time : 12/11/2015 2:57:47 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Entered
+Time : 12/11/2015 2:58:56 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Entered
+Time : 12/11/2015 2:58:56 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Entered
+Time : 12/11/2015 2:58:56 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : comBoxDestination_SelectedValueChanged -Exit
+Time : 12/11/2015 2:58:56 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : cmboxSource_SelectedValueChanged -Exit
+Time : 12/11/2015 2:58:56 PM
+^^---------------------------------------------------------^^
+Class Name  : MainWindow
+Method Name : btnBookTicket_Click -Exit
+Time : 12/11/2015 2:58:56 PM
+^^---------------------------------------------------------^^
