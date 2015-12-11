@@ -28,7 +28,6 @@ C:\Users\anusha\Desktop\AirLine\Airline Reservation\Airline Reservation\obj\Rele
 C:\Users\anusha\Source\Repos\CSYE-6202\AirLine\Airline Reservation\Airline Reservation\bin\Release\Airline Reservation.exe.config
 C:\Users\anusha\Source\Repos\CSYE-6202\AirLine\Airline Reservation\Airline Reservation\bin\Release\Airline Reservation.exe
 C:\Users\anusha\Source\Repos\CSYE-6202\AirLine\Airline Reservation\Airline Reservation\bin\Release\Airline Reservation.pdb
-C:\Users\anusha\Source\Repos\CSYE-6202\AirLine\Airline Reservation\Airline Reservation\obj\Release\Airline Reservation.csprojResolveAssemblyReference.cache
 C:\Users\anusha\Source\Repos\CSYE-6202\AirLine\Airline Reservation\Airline Reservation\obj\Release\Airline_Reservation.FlightCrewWindow.resources
 C:\Users\anusha\Source\Repos\CSYE-6202\AirLine\Airline Reservation\Airline Reservation\obj\Release\Airline_Reservation.FlightFareWindow.resources
 C:\Users\anusha\Source\Repos\CSYE-6202\AirLine\Airline Reservation\Airline Reservation\obj\Release\Airline_Reservation.LoginWindow.resources
